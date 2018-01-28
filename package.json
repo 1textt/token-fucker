@@ -1,7 +1,7 @@
 {
 	"author": "lloti <dimggyt@gmail.com> (https://dim.codes)",
 	"name": "token-fucker",
-	"main": ".eslintrc.js",
+	"main": "index.js",
 	"version": "1.0.0",
 	"description": "Reset, Scrape & Fuck Discord Tokens",
 	"private": true,
