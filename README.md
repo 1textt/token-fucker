@@ -1,4 +1,5 @@
 # Environment Variables
-#### [] = optional
+*[] = optional*
 [PORT] - Port to listen on
+
 TOKEN - Discord user account token
